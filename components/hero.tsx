@@ -14,9 +14,8 @@ export function Hero() {
           <p className="mb-5 inline-flex items-center rounded-full border border-primary/20 bg-background px-3 py-1 text-sm font-medium text-secondary-foreground">
             Welcome to Super Dev Community
           </p>
-          <h1 className="text-balance text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl md:text-6xl">
-            We automate the hard work and build{' '}
-            <span className="text-primary">websites and apps made for you.</span>
+          <h1 className="text-gradient-gold text-balance pb-1 text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl md:text-6xl">
+            We automate the hard work and build websites and apps made for you.
           </h1>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
             We receive requests from clients to automate complex, repetitive, and high-intensity tasks, and we deliver
