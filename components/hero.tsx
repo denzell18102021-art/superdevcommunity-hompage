@@ -17,6 +17,7 @@ export function Hero() {
           <h1 className="text-gradient-gold text-balance pb-1 text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl md:text-6xl">
             We automate the hard work and build websites and apps made for you.
           </h1>
+          <p className="mt-4 text-2xl font-bold tracking-tight text-primary sm:text-3xl">The best service.</p>
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
             We receive requests from clients to automate complex, repetitive, and high-intensity tasks, and we deliver
             perfect solutions in the shortest possible time.
